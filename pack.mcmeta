@@ -1,0 +1,7 @@
+{
+  "pack": {
+	"min_format": 94,
+    	"max_format": 103,
+    	"description": [{"text":"S","color":"yellow"},{"text":"t","color":"#f2e23b"},{"text":"i","color":"#e7c638"}, {"text":"c","color":"#dbaa34"},{"text":"k","color":"#e18b36"},{"text":"y ","color":"#ec6d39"},{"text":"H","color":"#f84e3d"}, {"text":"o","color":"#fe3f5c"},{"text":"n","color":"#fe3f97"},{"text":"e","color":"#fe3fd1"},{"text":"y ","color":"#f93af9"},{"text":"- ","color":"#e526e5"},{"text":"B","color":"#d113d1"},{"text":"y ","color":"dark_purple"},{"text":"A","color":"#9613d1"},{"text":"n","color":"#6f26e5"},{"text":"y","color":"#483af9"},{"text":"a","color":"#305cef"},{"text":"P","color":"#1d83db"},{"text":"i","color":"#09aac7"},{"text":"z","color":"#09c7c7"},{"text":"z","color":"#1ddbdb"},{"text":"a","color":"#30efef"}]
+  }
+}
